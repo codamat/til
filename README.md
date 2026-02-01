@@ -8,11 +8,11 @@ Today I Learned
 
 ### GitHub
 
-- [Markdown for GitHub](Markdown%20for%20GitHub.md)
+- [Markdown for GitHub](GitHub/Markdown%20for%20GitHub.md)]
 
 ### 情報セキュリティマネジメント
 
-- [ISMS](ISMS.md)
-- [JIS Q 27000](JIS%20Q%2027000.md)
-- [PDCA](PDCA.md)
-- [7 properties of information security](7%20properties%20of%20information%20security.md)
+- [ISMS](Information%20Security%20Management/ISMS.md)
+- [JIS Q 27000](Information%20Security%20Management/JIS%20Q%2027000.md)
+- [PDCA](Information%20Security%20Management/PDCA.md)]
+- [7 properties of information security](Information%20Security%20Management/7%20properties%20of%20information%20security.md)
