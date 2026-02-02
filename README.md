@@ -8,11 +8,16 @@ Today I Learned
 
 ### GitHub
 
-- [Markdown for GitHub](GitHub/Markdown%20for%20GitHub.md)]
+- [Markdown for GitHub](GitHub/Markdown%20for%20GitHub.md)
 
 ### 情報セキュリティマネジメント
 
 - [ISMS](Information%20Security%20Management/ISMS.md)
 - [JIS Q 27000](Information%20Security%20Management/JIS%20Q%2027000.md)
-- [PDCA](Information%20Security%20Management/PDCA.md)]
+- [PDCA](Information%20Security%20Management/PDCA.md)
 - [7 properties of information security](Information%20Security%20Management/7%20properties%20of%20information%20security.md)
+
+### 情報システム開発
+
+- [Agile Development](Information%20Systems%20Development/Agile%20Development.md)
+- [Waterfall Model](Information%20Systems%20Development/Waterfall%20Model.md)
