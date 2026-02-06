@@ -21,3 +21,6 @@ Today I Learned
 
 - [Agile Development](Information%20Systems%20Development/Agile%20Development.md)
 - [Waterfall Model](Information%20Systems%20Development/Waterfall%20Model.md)
+- [DFD](Information%20Systems%20Development/DFD.md)
+- [E-R Diagram](Information%20Systems%20Development/E-R%20Diagram.md)
+- 
