@@ -35,5 +35,14 @@ Today I Learned
 - [Stakeholder Management](Project%20Management/Stakeholder%20Management.md)
 - [Communication Management](Project%20Management/Communication%20Management.md)
 - [Scope Management](Project%20Management/Scope%20Management.md)
+- [Resource Management](Project%20Management/Resource%20Management.md)
+- [Procurement Management](Project%20Management/Procurement%20Management.md)
+- [Cost Management](Project%20Management/Cost%20Management.md)
+- [Schedule Management](Project%20Management/Schedule%20Management.md)
+- [Risk Management](Project%20Management/Risk%20Management.md)
+- [Quality Management](Project%20Management/Quality%20Management.md)
+
+### サービスマネジメント
+
 - 
 
